@@ -3,7 +3,6 @@
 API REST desarrollada en Spring Boot para la **gestión de libros**.  
 Permite realizar operaciones CRUD (crear, leer, actualizar y eliminar libros), aplicando el **patrón DTO (Data Transfer Object)** para exponer solo los datos necesarios al cliente y el principio de **Inversión de Control (IoC)** mediante la **Inyección de Dependencias** usando el contenedor de Spring.
 
-Este proyecto es un **ejercicio educativo** para la Tecnicatura Universitaria en Programación (UTN).
 
 ---
 
